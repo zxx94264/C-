@@ -5,7 +5,7 @@ int main(void)
 {
 	int a;
 	int b;
-	a=15;
+	a=12;
 	b=5;
 	printf("a +b = %d\n");
 	
